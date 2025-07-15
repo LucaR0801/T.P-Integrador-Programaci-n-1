@@ -1,5 +1,10 @@
 # T.P-Integrador-Programacion-1
 Algoritmos de Búsqueda y Ordenamiento en Python:
+Profesor: Nicolás Quirós
+Tutor: Neyén Bianchi
+Alumno: Ruff Luca Genaro
+Link del video: 
+
   Este repositorio contiene un trabajo práctico desarrollado para la materia Programación I de la Tecnicatura Universitaria en Programación. El objetivo del proyecto es implementar y comparar distintos algoritmos de búsqueda y ordenamiento utilizando el lenguaje Python, con un enfoque educativo.
 
 - Contenido:
