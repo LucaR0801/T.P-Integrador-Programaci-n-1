@@ -50,3 +50,5 @@ Este repositorio contiene un trabajo práctico desarrollado para la materia Prog
 Python 3.10 o superior
 
 No se utilizan librerías externas
+
+Link del video: h􀆩ps://www.youtube.com/watch?v=QMeTZQ2bJ5I
